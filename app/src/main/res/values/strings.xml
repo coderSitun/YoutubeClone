@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">YoutubeClone</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="explore_fragment">Explore Fragment</string>
+    <string name="subscriptions_fragment">Subscriptions Fragement</string>
+    <string name="library_fragment">Library Fragment</string>
 </resources>
