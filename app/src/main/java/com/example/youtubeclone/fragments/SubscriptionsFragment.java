@@ -1,4 +1,4 @@
-HomeFragmentpackage com.example.youtubeclone.fragments;
+package com.example.youtubeclone.fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
